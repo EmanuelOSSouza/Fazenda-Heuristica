@@ -18,7 +18,7 @@ Notação assintotica de complexidade: O(bᵈ).
 
 ### Funcionamento: 
 
-> Para verificar a execução da aplicação deve-se importar para o NetBeans e xecutar a classe principal (MainFrameBase.java).
+> Para verificar a execução da aplicação deve-se importar para o NetBeans e executar a classe principal (MainFrameBase.java).
 
 > Baseado no [mapa](https://github.com/EmanuelOSSouza/Fazenda-Heuristica/blob/master/Descritivo.pdf), deve-se escolher a posição (X e Y) que contém grama (na cor verde) e clicar em iniciar.
 
