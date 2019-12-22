@@ -14,7 +14,7 @@ Para estes tipos de problemas existem diversos tipos de algoritmos, como por exe
 Esta problematica se assemelha ao problema do caxeiro viajante (PCV), no qual é um problema que tenta determinar a menor rota para percorrer uma série de cidades (visitando uma única vez cada uma delas), retornando à cidade de origem. Neste caso, são caminhos para chegar até as vacas.
 
 Portanto neste tipo de problema nem sempre se chega a uma resposta ótima. As vezes, no pior caso, chega em resultados aproximados. Por se tratar de soluções heuristicas. Por isso em alguns casos será notório "caminhos desnecessários" para chegar a tal resolução.
-Notação assintotica de complexidade: O(b?). 
+Notação assintotica de complexidade: O(bᵈ). 
 
 ### Funcionamento: 
 
