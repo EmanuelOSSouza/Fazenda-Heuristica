@@ -2,7 +2,7 @@
 ###  Autor: [Emanuel Souza](https://github.com/EmanuelOSSouza) 
 ###  Autor: [Iarley Moraes](https://github.com/Rytokirin21)
 ###  Autor: Caio Luiz
-###  Matéria: Inteligência Artifcial
+###  Matéria: Inteligência Artificial
 ###  Busca heuristica - Fazenda
 ### Descrição:
 O trabalho consiste em implementar um robô de inspeção (agente) capaz de locomover-se pela fazenda (representada pelo mapa ilustrado na Figura 1) e encontrar um ou mais gados (ponto de destino) de forma inteligente. Para isso, você deve utilizar o algoritmo de busca heurística A*. O agente deve ser capaz de calcular automaticamente a melhor rota. A melhor rota é a rota de menor custo levando em consideração o terreno. [Ver descritivo.](https://github.com/EmanuelOSSouza/Fazenda-Heuristica/blob/master/Descritivo.pdf)
