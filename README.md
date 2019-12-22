@@ -1,6 +1,7 @@
 # Fazenda Heuristica
 ###  Autor: [Emanuel Souza](https://github.com/EmanuelOSSouza) 
 ###  Autor: [Iarley Moraes](https://github.com/Rytokirin21)
+###  Autor: Caio Luiz
 ###  Matéria: Inteligência Artifcial
 ###  Busca heuristica - Fazenda
 ### Descrição:
